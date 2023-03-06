@@ -2,7 +2,7 @@
 
 **`Digital Philomath 🎓 (Developer/Researcher/Creator)`**
 
-During the day I am a Hubber who works to keep GitHub a safe and welcoming place for all developers. By night I am an indie full-stack developer with a passion for learning. As a self-described philomath I enjoy spending my spare time learning more about the topics that inspire me. You'll often find me tinkering in areas such as 💻 coding, 💀 cybersecurity, 👤 AI, and 🎮 game development.
+During the day I am a Hubber who works to keep GitHub a safe and welcoming place for all developers. By night I am an indie full-stack developer with a passion for learning. As a self-described philomath I enjoy learning more about the topics that inspire me. You'll often find me tinkering in areas such as 💻 coding, 💀 cybersecurity, 👤 AI, and 🎮 game development.
 
 ---
 
