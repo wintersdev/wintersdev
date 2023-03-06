@@ -28,4 +28,6 @@ During the day I am a Hubber who works to keep GitHub a safe and welcoming place
 
 #
 
+<script src="https://tryhackme.com/badge/1751123"></script>
+
 Please be mindful that any views, opinions and content contained in my personal GitHub profile are my own opinions and do not reflect the views of GitHub.
